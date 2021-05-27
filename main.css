@@ -60,7 +60,7 @@ a {
   margin-bottom: 22.5px;
 }
 .image {
-  height: 645px;
+  height: 588px;
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
@@ -72,5 +72,5 @@ a {
   margin-top: 10px;
 }
 .empty {
-  height: 568px;
+  height: 57px;
 }
